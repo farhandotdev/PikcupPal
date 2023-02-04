@@ -87,3 +87,55 @@ nav img{
     margin: 5px 10px;
     border-radius: 25px;
 }
+
+.transport{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.modes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mode{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 1px 15px;
+}
+
+.mode img{
+    margin: 5px;
+    width:25%;
+    height: 35%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 35px 10px 10px 5px;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.fmain{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+.fmain p{
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.flinks{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
