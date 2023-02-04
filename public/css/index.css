@@ -1,0 +1,89 @@
+body,
+html {
+    border: 0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    padding: 25px;
+    align-items:center ;
+    padding-top: 0;
+}
+nav img{
+    width: 10%;
+}
+
+.nav-right{
+    flex:1;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-middle{
+    display: flex;
+    flex:2;
+    justify-content: space-evenly;
+}
+
+
+.logo{
+    width:fit-content;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+}
+
+.banner img{
+    width: 80%;
+    margin: auto;
+}
+
+.overview{
+    width: 75%;
+    margin: 30px auto;
+    /* margin-top: 30px; */
+}
+
+.overviewOne{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+    align-items: center;
+}
+
+.overviewButton button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 18px;
+}
+
+.services h1{
+    text-align: center;
+}
+
+.serviceMain{
+    width: 80%;
+    margin: auto;
+}
+
+.serviceMain .row{
+    display: flex;
+}
+
+.service{
+    flex:1;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px 10px;
+    border-radius: 25px;
+}
