@@ -1,13 +1,11 @@
 import React from "react";
 
-class Book extends React.Component {
-  render() {
-    return (
-      <div>
-        <label htmlFor="">Mode of Transport</label>
-      </div>
-    );
-  }
+function Book() {
+  return (
+    <div>
+      <h1>Mode of Transport</h1>
+    </div>
+  );
 }
 
 export default Book;

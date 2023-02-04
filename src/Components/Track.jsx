@@ -1,13 +1,11 @@
 import React from "react";
 
-class Track extends React.Component {
-  render() {
-    return (
-      <div>
-        <label htmlFor="">Track your order</label>
-      </div>
-    );
-  }
+function Track() {
+  return (
+    <div>
+      <h1>Track your order</h1>
+    </div>
+  );
 }
 
 export default Track;
