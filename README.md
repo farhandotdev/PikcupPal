@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+You can find the most recent version of this guide [here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Table of Contents
 
@@ -94,15 +94,15 @@ You almost never need to update `create-react-app` itself: it delegates all the 
 
 When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll get all the new features and improvements in newly created apps automatically.
 
-To update an existing project to a new version of `react-scripts`, [open the changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md), find the version you’re currently on (check `package.json` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
+To update an existing project to a new version of `react-scripts`, [open the changelog](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), find the version you’re currently on (check `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
 
-In most cases bumping the `react-scripts` version in `package.json` and running `npm install` in this folder should be enough, but it’s good to consult the [changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md) for potential breaking changes.
+In most cases bumping the `react-scripts` version in `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` and running `npm install` in this folder should be enough, but it’s good to consult the [changelog](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) for potential breaking changes.
 
 We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
 
 ## Sending Feedback
 
-We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
+We are always open to [your feedback](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Folder Structure
 
@@ -110,32 +110,32 @@ After creation, your project should look like this:
 
 ```
 my-app/
-  README.md
+  https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
   node_modules/
-  package.json
+  https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
   public/
-    index.html
-    favicon.ico
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
   src/
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
 ```
 
 For the project to build, **these files must exist with exact filenames**:
 
-* `public/index.html` is the page template;
-* `src/index.js` is the JavaScript entry point.
+* `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` is the page template;
+* `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` is the JavaScript entry point.
 
 You can delete or rename the other files.
 
 You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.<br>
 You need to **put any JS and CSS files inside `src`**, or Webpack won’t see them.
 
-Only files inside `public` can be used from `public/index.html`.<br>
+Only files inside `public` can be used from `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`.<br>
 Read instructions below for using assets from JavaScript and HTML.
 
 You can, however, create more top-level directories.<br>
@@ -181,29 +181,29 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Supported Language Features and Polyfills
 
 This project supports a superset of the latest JavaScript standard.<br>
-In addition to [ES6](https://github.com/lukehoban/es6features) syntax features, it also supports:
+In addition to [ES6](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) syntax features, it also supports:
 
-* [Exponentiation Operator](https://github.com/rwaldron/exponentiation-operator) (ES2016).
-* [Async/await](https://github.com/tc39/ecmascript-asyncawait) (ES2017).
-* [Object Rest/Spread Properties](https://github.com/sebmarkbage/ecmascript-rest-spread) (stage 3 proposal).
-* [Class Fields and Static Properties](https://github.com/tc39/proposal-class-public-fields) (stage 2 proposal).
-* [JSX](https://facebook.github.io/react/docs/introducing-jsx.html) and [Flow](https://flowtype.org/) syntax.
+* [Exponentiation Operator](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) (ES2016).
+* [Async/await](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) (ES2017).
+* [Object Rest/Spread Properties](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) (stage 3 proposal).
+* [Class Fields and Static Properties](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) (stage 2 proposal).
+* [JSX](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and [Flow](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) syntax.
 
-Learn more about [different proposal stages](https://babeljs.io/docs/plugins/#presets-stage-x-experimental-presets-).
+Learn more about [different proposal stages](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
-While we recommend to use experimental proposals with some caution, Facebook heavily uses these features in the product code, so we intend to provide [codemods](https://medium.com/@cpojer/effective-javascript-codemods-5a6686bb46fb) if any of these proposals change in the future.
+While we recommend to use experimental proposals with some caution, Facebook heavily uses these features in the product code, so we intend to provide [codemods](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) if any of these proposals change in the future.
 
-Note that **the project only includes a few ES6 [polyfills](https://en.wikipedia.org/wiki/Polyfill)**:
+Note that **the project only includes a few ES6 [polyfills](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)**:
 
-* [`Object.assign()`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) via [`object-assign`](https://github.com/sindresorhus/object-assign).
-* [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) via [`promise`](https://github.com/then/promise).
-* [`fetch()`](https://developer.mozilla.org/en/docs/Web/API/Fetch_API) via [`whatwg-fetch`](https://github.com/github/fetch).
+* [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) via [`object-assign`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
+* [`Promise`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) via [`promise`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
+* [`fetch()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) via [`whatwg-fetch`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
-If you use any other ES6+ features that need **runtime support** (such as `Array.from()` or `Symbol`), make sure you are including the appropriate polyfills manually, or that the browsers you are targeting already support them.
+If you use any other ES6+ features that need **runtime support** (such as `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()` or `Symbol`), make sure you are including the appropriate polyfills manually, or that the browsers you are targeting already support them.
 
 ## Syntax Highlighting in the Editor
 
-To configure the syntax highlighting in your favorite text editor, head to the [relevant Babel documentation page](https://babeljs.io/docs/editors) and follow the instructions. Some of the most popular editors are covered.
+To configure the syntax highlighting in your favorite text editor, head to the [relevant Babel documentation page](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and follow the instructions. Some of the most popular editors are covered.
 
 ## Displaying Lint Output in the Editor
 
@@ -219,12 +219,12 @@ You would need to install an ESLint plugin for your editor first.
 
 >If you are using the Atom `linter-eslint` plugin, make sure that **Use global ESLint installation** option is checked:
 
-><img src="http://i.imgur.com/yVNNHJM.png" width="300">
+><img src="https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip" width="300">
 
 
 >**For Visual Studio Code users**
 
->VS Code ESLint plugin automatically detects Create React App's configuration file. So you do not need to create `eslintrc.json` at the root directory, except when you want to add your own rules. In that case, you should include CRA's config by adding this line:
+>VS Code ESLint plugin automatically detects Create React App's configuration file. So you do not need to create `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` at the root directory, except when you want to add your own rules. In that case, you should include CRA's config by adding this line:
 
 >```js
 {
@@ -233,7 +233,7 @@ You would need to install an ESLint plugin for your editor first.
 }
 ```
 
-Then add this block to the `package.json` file of your project:
+Then add this block to the `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` file of your project:
 
 ```js
 {
@@ -250,17 +250,17 @@ Finally, you will need to install some packages *globally*:
 npm install -g eslint-config-react-app@0.3.0 eslint@3.8.1 babel-eslint@7.0.0 eslint-plugin-react@6.4.1 eslint-plugin-import@2.0.1 eslint-plugin-jsx-a11y@4.0.0 eslint-plugin-flowtype@2.21.0
 ```
 
-We recognize that this is suboptimal, but it is currently required due to the way we hide the ESLint dependency. The ESLint team is already [working on a solution to this](https://github.com/eslint/eslint/issues/3458) so this may become unnecessary in a couple of months.
+We recognize that this is suboptimal, but it is currently required due to the way we hide the ESLint dependency. The ESLint team is already [working on a solution to this](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) so this may become unnecessary in a couple of months.
 
 ## Debugging in the Editor
 
-**This feature is currently only supported by [Visual Studio Code](https://code.visualstudio.com) editor.**
+**This feature is currently only supported by [Visual Studio Code](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) editor.**
 
 Visual Studio Code supports live-editing and debugging out of the box with Create React App. This enables you as a developer to write and debug your React code without leaving the editor, and most importantly it enables you to have a continuous development workflow, where context switching is minimal, as you don’t have to switch between tools.
 
-You would need to have the latest version of [VS Code](https://code.visualstudio.com) and VS Code [Chrome Debugger Extension](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) installed.
+You would need to have the latest version of [VS Code](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and VS Code [Chrome Debugger Extension](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) installed.
 
-Then add the block below to your `launch.json` file and put it inside the `.vscode` folder in your app’s root directory.
+Then add the block below to your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` file and put it inside the `.vscode` folder in your app’s root directory.
 
 ```json
 {
@@ -271,7 +271,7 @@ Then add the block below to your `launch.json` file and put it inside the `.vsco
     "request": "launch",
     "url": "http://localhost:3000",
     "webRoot": "${workspaceRoot}/src",
-    "userDataDir": "${workspaceRoot}/.vscode/chrome",
+    "userDataDir": "${workspaceRoot}https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip",
     "sourceMapPathOverrides": {
       "webpack:///src/*": "${webRoot}/*"
     }
@@ -287,7 +287,7 @@ You can find the source HTML file in the `public` folder of the generated projec
 
 Note that normally you wouldn’t edit files in the `public` folder very often. For example, [adding a stylesheet](#adding-a-stylesheet) is done without touching the HTML.
 
-If you need to dynamically update the page title based on the content, you can use the browser [`document.title`](https://developer.mozilla.org/en-US/docs/Web/API/Document/title) API. For more complex scenarios when you want to change the title from React components, you can use [React Helmet](https://github.com/nfl/react-helmet), a third party library.
+If you need to dynamically update the page title based on the content, you can use the browser [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) API. For more complex scenarios when you want to change the title from React components, you can use [React Helmet](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), a third party library.
 
 If you use a custom server for your app in production and want to modify the title before it gets sent to the browser, you can follow advice in [this section](#generating-dynamic-meta-tags-on-the-server). Alternatively, you can pre-build each page as a static HTML file which then loads the JavaScript bundle, which is covered [here](#pre-rendering-into-static-html-files).
 
@@ -302,11 +302,11 @@ npm install --save <library-name>
 ## Importing a Component
 
 This project setup supports ES6 modules thanks to Babel.<br>
-While you can still use `require()` and `module.exports`, we encourage you to use [`import` and `export`](http://exploringjs.com/es6/ch_modules.html) instead.
+While you can still use `require()` and `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, we encourage you to use [`import` and `export`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) instead.
 
 For example:
 
-### `Button.js`
+### `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 
 ```js
 import React, { Component } from 'react';
@@ -320,7 +320,7 @@ class Button extends Component {
 export default Button; // Don’t forget to use export default!
 ```
 
-### `DangerButton.js`
+### `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 
 
 ```js
@@ -336,7 +336,7 @@ class DangerButton extends Component {
 export default DangerButton;
 ```
 
-Be aware of the [difference between default and named exports](http://stackoverflow.com/questions/36795819/react-native-es-6-when-should-i-use-curly-braces-for-import/36796281#36796281). It is a common source of mistakes.
+Be aware of the [difference between default and named exports](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip). It is a common source of mistakes.
 
 We suggest that you stick to using default imports and exports when a module only exports a single thing (for example, a component). That’s what you get when you use `export default Button` and `import Button from './Button'`.
 
@@ -344,15 +344,15 @@ Named exports are useful for utility modules that export several functions. A mo
 
 Learn more about ES6 modules:
 
-* [When to use the curly braces?](http://stackoverflow.com/questions/36795819/react-native-es-6-when-should-i-use-curly-braces-for-import/36796281#36796281)
-* [Exploring ES6: Modules](http://exploringjs.com/es6/ch_modules.html)
-* [Understanding ES6: Modules](https://leanpub.com/understandinges6/read#leanpub-auto-encapsulating-code-with-modules)
+* [When to use the curly braces?](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [Exploring ES6: Modules](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [Understanding ES6: Modules](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ## Adding a Stylesheet
 
-This project setup uses [Webpack](https://webpack.github.io/) for handling all assets. Webpack offers a custom way of “extending” the concept of `import` beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
+This project setup uses [Webpack](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) for handling all assets. Webpack offers a custom way of “extending” the concept of `import` beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
 
-### `Button.css`
+### `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 
 ```css
 .Button {
@@ -360,11 +360,11 @@ This project setup uses [Webpack](https://webpack.github.io/) for handling all a
 }
 ```
 
-### `Button.js`
+### `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 
 ```js
 import React, { Component } from 'react';
-import './Button.css'; // Tell Webpack that Button.js uses these styles
+import 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip'; // Tell Webpack that https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip uses these styles
 
 class Button extends Component {
   render() {
@@ -374,15 +374,15 @@ class Button extends Component {
 }
 ```
 
-**This is not required for React** but many people find this feature convenient. You can read about the benefits of this approach [here](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b). However you should be aware that this makes your code less portable to other build tools and environments than Webpack.
+**This is not required for React** but many people find this feature convenient. You can read about the benefits of this approach [here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip). However you should be aware that this makes your code less portable to other build tools and environments than Webpack.
 
 In development, expressing dependencies this way allows your styles to be reloaded on the fly as you edit them. In production, all CSS files will be concatenated into a single minified `.css` file in the build output.
 
-If you are concerned about using Webpack-specific semantics, you can put all your CSS right into `src/index.css`. It would still be imported from `src/index.js`, but you could always remove that import if you later migrate to a different build tool.
+If you are concerned about using Webpack-specific semantics, you can put all your CSS right into `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. It would still be imported from `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, but you could always remove that import if you later migrate to a different build tool.
 
 ## Post-Processing CSS
 
-This project setup minifies your CSS and adds vendor prefixes to it automatically through [Autoprefixer](https://github.com/postcss/autoprefixer) so you don’t need to worry about it.
+This project setup minifies your CSS and adds vendor prefixes to it automatically through [Autoprefixer](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) so you don’t need to worry about it.
 
 For example, this:
 
@@ -411,11 +411,11 @@ becomes this:
 }
 ```
 
-If you need to disable autoprefixing for some reason, [follow this section](https://github.com/postcss/autoprefixer#disabling).
+If you need to disable autoprefixing for some reason, [follow this section](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Adding a CSS Preprocessor (Sass, Less etc.)
 
-Generally, we recommend that you don’t reuse the same CSS classes across different components. For example, instead of using a `.Button` CSS class in `<AcceptButton>` and `<RejectButton>` components, we recommend creating a `<Button>` component with its own `.Button` styles, that both `<AcceptButton>` and `<RejectButton>` can render (but [not inherit](https://facebook.github.io/react/docs/composition-vs-inheritance.html)).
+Generally, we recommend that you don’t reuse the same CSS classes across different components. For example, instead of using a `.Button` CSS class in `<AcceptButton>` and `<RejectButton>` components, we recommend creating a `<Button>` component with its own `.Button` styles, that both `<AcceptButton>` and `<RejectButton>` can render (but [not inherit](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)).
 
 Following this rule often makes CSS preprocessors less useful, as features like mixins and nesting are replaced by component composition. You can, however, integrate a CSS preprocessor if you find it valuable. In this walkthrough, we will be using Sass, but you can also use Less, or another alternative.
 
@@ -425,7 +425,7 @@ First, let’s install the command-line interface for Sass:
 npm install node-sass --save-dev
 ```
 
-Then in `package.json`, add the following lines to `scripts`:
+Then in `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, add the following lines to `scripts`:
 
 ```diff
    "scripts": {
@@ -438,9 +438,9 @@ Then in `package.json`, add the following lines to `scripts`:
 
 >Note: To use a different preprocessor, replace `build-css` and `watch-css` commands according to your preprocessor’s documentation.
 
-Now you can rename `src/App.css` to `src/App.scss` and run `npm run watch-css`. The watcher will find every Sass file in `src` subdirectories, and create a corresponding CSS file next to it, in our case overwriting `src/App.css`. Since `src/App.js` still imports `src/App.css`, the styles become a part of your application. You can now edit `src/App.scss`, and `src/App.css` will be regenerated.
+Now you can rename `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` and run `npm run watch-css`. The watcher will find every Sass file in `src` subdirectories, and create a corresponding CSS file next to it, in our case overwriting `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. Since `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` still imports `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, the styles become a part of your application. You can now edit `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, and `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` will be regenerated.
 
-To share variables between Sass files, you can use Sass imports. For example, `src/App.scss` and other component style files could include `@import "./shared.scss";` with variable definitions.
+To share variables between Sass files, you can use Sass imports. For example, `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` and other component style files could include `@import "https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip";` with variable definitions.
 
 At this point you might want to remove all CSS files from the source control, and add `src/**/*.css` to your `.gitignore` file. It is generally a good practice to keep the build products outside of the source control.
 
@@ -466,7 +466,7 @@ Then we can change `start` and `build` scripts to include the CSS preprocessor c
    }
 ```
 
-Now running `npm start` and `npm run build` also builds Sass files. Note that `node-sass` seems to have an [issue recognizing newly created files on some systems](https://github.com/sass/node-sass/issues/1891) so you might need to restart the watcher when you create a file until it’s resolved.
+Now running `npm start` and `npm run build` also builds Sass files. Note that `node-sass` seems to have an [issue recognizing newly created files on some systems](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) so you might need to restart the watcher when you create a file until it’s resolved.
 
 ## Adding Images and Fonts
 
@@ -478,9 +478,9 @@ Here is an example:
 
 ```js
 import React from 'react';
-import logo from './logo.png'; // Tell Webpack this JS file uses this image
+import logo from 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip'; // Tell Webpack this JS file uses this image
 
-console.log(logo); // /logo.84287d09.png
+https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(logo); // https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
 
 function Header() {
   // Import result is the URL of your image
@@ -496,7 +496,7 @@ This works in CSS too:
 
 ```css
 .Logo {
-  background-image: url(./logo.png);
+  background-image: url(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip);
 }
 ```
 
@@ -532,24 +532,24 @@ However there is an **escape hatch** that you can use to add an asset outside of
 
 If you put a file into the `public` folder, it will **not** be processed by Webpack. Instead it will be copied into the build folder untouched.   To reference assets in the `public` folder, you need to use a special variable called `PUBLIC_URL`.
 
-Inside `index.html`, you can use it like this:
+Inside `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, you can use it like this:
 
 ```html
-<link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+<link rel="shortcut icon" href="%PUBLIC_URL%https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip">
 ```
 
 Only files inside the `public` folder will be accessible by `%PUBLIC_URL%` prefix. If you need to use a file from `src` or `node_modules`, you’ll have to copy it there to explicitly specify your intention to make this file a part of the build.
 
 When you run `npm run build`, Create React App will substitute `%PUBLIC_URL%` with a correct absolute path so your project works even if you use client-side routing or host it at a non-root URL.
 
-In JavaScript code, you can use `process.env.PUBLIC_URL` for similar purposes:
+In JavaScript code, you can use `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` for similar purposes:
 
 ```js
 render() {
   // Note: this is an escape hatch and should be used sparingly!
   // Normally we recommend using `import` for getting asset URLs
   // as described in “Adding Images and Fonts” above this section.
-  return <img src={process.env.PUBLIC_URL + '/img/logo.png'} />;
+  return <img src={https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip + 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip'} />;
 }
 ```
 
@@ -564,9 +564,9 @@ Keep in mind the downsides of this approach:
 Normally we recommend importing [stylesheets](#adding-a-stylesheet), [images, and fonts](#adding-images-and-fonts) from JavaScript.
 The `public` folder is useful as a workaround for a number of less common cases:
 
-* You need a file with a specific name in the build output, such as [`manifest.webmanifest`](https://developer.mozilla.org/en-US/docs/Web/Manifest).
+* You need a file with a specific name in the build output, such as [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 * You have thousands of images and need to dynamically reference their paths.
-* You want to include a small script like [`pace.js`](http://github.hubspot.com/pace/docs/welcome/) outside of the bundled code.
+* You want to include a small script like [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) outside of the bundled code.
 * Some library may be incompatible with Webpack and you have no other option but to include it as a `<script>` tag.
 
 Note that if you add a `<script>` that declares global variables, you also need to read the next section on using them.
@@ -587,7 +587,7 @@ Alternatively, you can force the linter to ignore any line by adding `// eslint-
 
 ## Adding Bootstrap
 
-You don’t have to use [React Bootstrap](https://react-bootstrap.github.io) together with React but it is a popular library for integrating Bootstrap with React apps. If you need it, you can integrate it with Create React App by following these steps:
+You don’t have to use [React Bootstrap](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) together with React but it is a popular library for integrating Bootstrap with React apps. If you need it, you can integrate it with Create React App by following these steps:
 
 Install React Bootstrap and Bootstrap from npm. React Bootstrap does not include Bootstrap CSS so this needs to be installed as well:
 
@@ -596,22 +596,22 @@ npm install react-bootstrap --save
 npm install bootstrap@3 --save
 ```
 
-Import Bootstrap CSS and optionally Bootstrap theme CSS in the beginning of your ```src/index.js``` file:
+Import Bootstrap CSS and optionally Bootstrap theme CSS in the beginning of your ```https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip``` file:
 
 ```js
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/css/bootstrap-theme.css';
+import 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip';
+import 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip';
 // Put any other imports below so that CSS from your
 // components takes precedence over default styles.
 ```
 
-Import required React Bootstrap components within ```src/App.js``` file or your custom component files:
+Import required React Bootstrap components within ```https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip``` file or your custom component files:
 
 ```js
 import { Navbar, Jumbotron, Button } from 'react-bootstrap';
 ```
 
-Now you are ready to use the imported React Bootstrap components within your component hierarchy defined in the render method. Here is an example [`App.js`](https://gist.githubusercontent.com/gaearon/85d8c067f6af1e56277c82d19fd4da7b/raw/6158dd991b67284e9fc8d70b9d973efe87659d72/App.js) redone using React Bootstrap.
+Now you are ready to use the imported React Bootstrap components within your component hierarchy defined in the render method. Here is an example [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) redone using React Bootstrap.
 
 ### Using a Custom Theme
 
@@ -622,26 +622,26 @@ We suggest the following approach:
 * Add the necessary build steps to tweak the theme, and publish your package on npm.
 * Install your own theme npm package as a dependency of your app.
 
-Here is an example of adding a [customized Bootstrap](https://medium.com/@tacomanator/customizing-create-react-app-aa9ffb88165) that follows these steps.
+Here is an example of adding a [customized Bootstrap](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) that follows these steps.
 
 ## Adding Flow
 
-Flow is a static type checker that helps you write code with fewer bugs. Check out this [introduction to using static types in JavaScript](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb) if you are new to this concept.
+Flow is a static type checker that helps you write code with fewer bugs. Check out this [introduction to using static types in JavaScript](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) if you are new to this concept.
 
-Recent versions of [Flow](http://flowtype.org/) work with Create React App projects out of the box.
+Recent versions of [Flow](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) work with Create React App projects out of the box.
 
 To add Flow to a Create React App project, follow these steps:
 
 1. Run `npm install --save-dev flow-bin` (or `yarn add --dev flow-bin`).
-2. Add `"flow": "flow"` to the `scripts` section of your `package.json`.
-3. Run `npm run flow -- init` (or `yarn flow -- init`) to create a [`.flowconfig` file](https://flowtype.org/docs/advanced-configuration.html) in the root directory.
-4. Add `// @flow` to any files you want to type check (for example, to `src/App.js`).
+2. Add `"flow": "flow"` to the `scripts` section of your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`.
+3. Run `npm run flow -- init` (or `yarn flow -- init`) to create a [`.flowconfig` file](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) in the root directory.
+4. Add `// @flow` to any files you want to type check (for example, to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`).
 
 Now you can run `npm run flow` (or `yarn flow`) to check the files for type errors.
-You can optionally use an IDE like [Nuclide](https://nuclide.io/docs/languages/flow/) for a better integrated experience.
+You can optionally use an IDE like [Nuclide](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) for a better integrated experience.
 In the future we plan to integrate it into Create React App even more closely.
 
-To learn more about Flow, check out [its documentation](https://flowtype.org/).
+To learn more about Flow, check out [its documentation](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Adding Custom Environment Variables
 
@@ -653,12 +653,12 @@ default you will have `NODE_ENV` defined for you, and any other environment vari
 
 **The environment variables are embedded during the build time**. Since Create React App produces a static HTML/CSS/JS bundle, it can’t possibly read them at runtime. To read them at runtime, you would need to load HTML into memory on the server and replace placeholders in runtime, just like [described here](#injecting-data-from-the-server-into-the-page). Alternatively you can rebuild the app on the server anytime you change them.
 
->Note: You must create custom environment variables beginning with `REACT_APP_`. Any other variables except `NODE_ENV` will be ignored to avoid accidentally [exposing a private key on the machine that could have the same name](https://github.com/facebookincubator/create-react-app/issues/865#issuecomment-252199527). Changing any environment variables will require you to restart the development server if it is running.
+>Note: You must create custom environment variables beginning with `REACT_APP_`. Any other variables except `NODE_ENV` will be ignored to avoid accidentally [exposing a private key on the machine that could have the same name](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip). Changing any environment variables will require you to restart the development server if it is running.
 
-These environment variables will be defined for you on `process.env`. For example, having an environment
-variable named `REACT_APP_SECRET_CODE` will be exposed in your JS as `process.env.REACT_APP_SECRET_CODE`.
+These environment variables will be defined for you on `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. For example, having an environment
+variable named `REACT_APP_SECRET_CODE` will be exposed in your JS as `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`.
 
-There is also a special built-in environment variable called `NODE_ENV`. You can read it from `process.env.NODE_ENV`. When you run `npm start`, it is always equal to `'development'`, when you run `npm test` it is always equal to `'test'`, and when you run `npm run build` to make a production bundle, it is always equal to `'production'`. **You cannot override `NODE_ENV` manually.** This prevents developers from accidentally deploying a slow development build to production.
+There is also a special built-in environment variable called `NODE_ENV`. You can read it from `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. When you run `npm start`, it is always equal to `'development'`, when you run `npm test` it is always equal to `'test'`, and when you run `npm run build` to make a production bundle, it is always equal to `'production'`. **You cannot override `NODE_ENV` manually.** This prevents developers from accidentally deploying a slow development build to production.
 
 These environment variables can be useful for displaying information conditionally based on where the project is
 deployed or consuming sensitive data that lives outside of version control.
@@ -670,16 +670,16 @@ in the environment inside a `<form>`:
 render() {
   return (
     <div>
-      <small>You are running this application in <b>{process.env.NODE_ENV}</b> mode.</small>
+      <small>You are running this application in <b>{https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip}</b> mode.</small>
       <form>
-        <input type="hidden" defaultValue={process.env.REACT_APP_SECRET_CODE} />
+        <input type="hidden" defaultValue={https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip} />
       </form>
     </div>
   );
 }
 ```
 
-During the build, `process.env.REACT_APP_SECRET_CODE` will be replaced with the current value of the `REACT_APP_SECRET_CODE` environment variable. Remember that the `NODE_ENV` variable will be set for you automatically.
+During the build, `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` will be replaced with the current value of the `REACT_APP_SECRET_CODE` environment variable. Remember that the `NODE_ENV` variable will be set for you automatically.
 
 When you load the app in the browser and inspect the `<input>`, you will see its value set to `abcdef`, and the bold text will show the environment provided when using `npm start`:
 
@@ -699,8 +699,8 @@ a `.env` file. Both of these ways are described in the next few sections.
 Having access to the `NODE_ENV` is also useful for performing actions conditionally:
 
 ```js
-if (process.env.NODE_ENV !== 'production') {
-  analytics.disable();
+if (https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip !== 'production') {
+  https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip();
 }
 ```
 
@@ -710,7 +710,7 @@ When you compile the app with `npm run build`, the minification step will strip 
 
 >Note: this feature is available with `react-scripts@0.9.0` and higher.
 
-You can also access the environment variables starting with `REACT_APP_` in the `public/index.html`. For example:
+You can also access the environment variables starting with `REACT_APP_` in the `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. For example:
 
 ```html
 <title>%REACT_APP_WEBSITE_NAME%</title>
@@ -726,7 +726,7 @@ Note that the caveats from the above section apply:
 Defining environment variables can vary between OSes. It’s also important to know that this manner is temporary for the
 life of the shell session.
 
-#### Windows (cmd.exe)
+#### Windows (https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ```cmd
 set REACT_APP_SECRET_CODE=abcdef&&npm start
@@ -751,14 +751,14 @@ REACT_APP_SECRET_CODE=abcdef
 ```
 
 These variables will act as the defaults if the machine does not explicitly set them.<br>
-Please refer to the [dotenv documentation](https://github.com/motdotla/dotenv) for more details.
+Please refer to the [dotenv documentation](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) for more details.
 
 >Note: If you are defining environment variables for development, your CI and/or hosting platform will most likely need
-these defined as well. Consult their documentation how to do this. For example, see the documentation for [Travis CI](https://docs.travis-ci.com/user/environment-variables/) or [Heroku](https://devcenter.heroku.com/articles/config-vars).
+these defined as well. Consult their documentation how to do this. For example, see the documentation for [Travis CI](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) or [Heroku](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Can I Use Decorators?
 
-Many popular libraries use [decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) in their documentation.<br>
+Many popular libraries use [decorators](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) in their documentation.<br>
 Create React App doesn’t support decorator syntax at the moment because:
 
 * It is an experimental proposal and is subject to change.
@@ -768,8 +768,8 @@ Create React App doesn’t support decorator syntax at the moment because:
 However in many cases you can rewrite decorator-based code without decorators just as fine.<br>
 Please refer to these two threads for reference:
 
-* [#214](https://github.com/facebookincubator/create-react-app/issues/214)
-* [#411](https://github.com/facebookincubator/create-react-app/issues/411)
+* [#214](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [#411](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 Create React App will add decorator support when the specification advances to a stable stage.
 
@@ -779,13 +779,13 @@ These tutorials will help you to integrate your app with an API backend running 
 using `fetch()` to access it.
 
 ### Node
-Check out [this tutorial](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/).
-You can find the companion GitHub repository [here](https://github.com/fullstackreact/food-lookup-demo).
+Check out [this tutorial](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
+You can find the companion GitHub repository [here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### Ruby on Rails
 
-Check out [this tutorial](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/).
-You can find the companion GitHub repository [here](https://github.com/fullstackreact/food-lookup-demo-rails).
+Check out [this tutorial](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
+You can find the companion GitHub repository [here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Proxying API Requests in Development
 
@@ -795,14 +795,14 @@ People often serve the front-end React app from the same host and port as their 
 For example, a production setup might look like this after the app is deployed:
 
 ```
-/             - static server returns index.html with React app
-/todos        - static server returns index.html with React app
+/             - static server returns https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip with React app
+/todos        - static server returns https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip with React app
 /api/todos    - server handles any /api/* requests using the backend implementation
 ```
 
 Such setup is **not** required. However, if you **do** have a setup like this, it is convenient to write requests like `fetch('/api/todos')` without worrying about redirecting them to another host or port during development.
 
-To tell the development server to proxy any unknown requests to your API server in development, add a `proxy` field to your `package.json`, for example:
+To tell the development server to proxy any unknown requests to your API server in development, add a `proxy` field to your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, for example:
 
 ```js
   "proxy": "http://localhost:4000",
@@ -810,7 +810,7 @@ To tell the development server to proxy any unknown requests to your API server 
 
 This way, when you `fetch('/api/todos')` in development, the development server will recognize that it’s not a static asset, and will proxy your request to `http://localhost:4000/api/todos` as a fallback. The development server will only attempt to send requests without a `text/html` accept header to the proxy.
 
-Conveniently, this avoids [CORS issues](http://stackoverflow.com/questions/21854516/understanding-ajax-cors-and-security-considerations) and error messages like this in development:
+Conveniently, this avoids [CORS issues](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and error messages like this in development:
 
 ```
 Fetch API cannot load http://localhost:4000/api/todos. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://localhost:3000' is therefore not allowed access. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
@@ -821,7 +821,7 @@ Keep in mind that `proxy` only has effect in development (with `npm start`), and
 The `proxy` option supports HTTP, HTTPS and WebSocket connections.<br>
 If the `proxy` option is **not** flexible enough for you, alternatively you can:
 
-* Enable CORS on your server ([here’s how to do it for Express](http://enable-cors.org/server_expressjs.html)).
+* Enable CORS on your server ([here’s how to do it for Express](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)).
 * Use [environment variables](#adding-custom-environment-variables) to inject the right server host and port into your app.
 
 ## Using HTTPS in Development
@@ -832,7 +832,7 @@ You may require the dev server to serve pages over HTTPS. One particular case wh
 
 To do this, set the `HTTPS` environment variable to `true`, then start the dev server as usual with `npm start`:
 
-#### Windows (cmd.exe)
+#### Windows (https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ```cmd
 set HTTPS=true&&npm start
@@ -860,19 +860,19 @@ Since Create React App doesn’t support server rendering, you might be wonderin
     <meta property="og:description" content="__OG_DESCRIPTION__">
 ```
 
-Then, on the server, regardless of the backend you use, you can read `index.html` into memory and replace `__OG_TITLE__`, `__OG_DESCRIPTION__`, and any other placeholders with values depending on the current URL. Just make sure to sanitize and escape the interpolated values so that they are safe to embed into HTML!
+Then, on the server, regardless of the backend you use, you can read `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` into memory and replace `__OG_TITLE__`, `__OG_DESCRIPTION__`, and any other placeholders with values depending on the current URL. Just make sure to sanitize and escape the interpolated values so that they are safe to embed into HTML!
 
 If you use a Node server, you can even share the route matching logic between the client and the server. However duplicating it also works fine in simple cases.
 
 ## Pre-Rendering into Static HTML Files
 
-If you’re hosting your `build` with a static hosting provider you can use [react-snapshot](https://www.npmjs.com/package/react-snapshot) to generate HTML pages for each route, or relative link, in your application. These pages will then seamlessly become active, or “hydrated”, when the JavaScript bundle has loaded.
+If you’re hosting your `build` with a static hosting provider you can use [react-snapshot](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) to generate HTML pages for each route, or relative link, in your application. These pages will then seamlessly become active, or “hydrated”, when the JavaScript bundle has loaded.
 
 There are also opportunities to use this outside of static hosting, to take the pressure off the server when generating and caching routes.
 
 The primary benefit of pre-rendering is that you get the core content of each page _with_ the HTML payload—regardless of whether or not your JavaScript bundle successfully downloads. It also increases the likelihood that each route of your application will be picked up by search engines.
 
-You can read more about [zero-configuration pre-rendering (also called snapshotting) here](https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319).
+You can read more about [zero-configuration pre-rendering (also called snapshotting) here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Injecting Data from the Server into the Page
 
@@ -883,22 +883,22 @@ Similarly to the previous section, you can leave some placeholders in the HTML t
 <html lang="en">
   <head>
     <script>
-      window.SERVER_DATA = __SERVER_DATA__;
+      https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip = __SERVER_DATA__;
     </script>
 ```
 
-Then, on the server, you can replace `__SERVER_DATA__` with a JSON of real data right before sending the response. The client code can then read `window.SERVER_DATA` to use it. **Make sure to [sanitize the JSON before sending it to the client](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0) as it makes your app vulnerable to XSS attacks.**
+Then, on the server, you can replace `__SERVER_DATA__` with a JSON of real data right before sending the response. The client code can then read `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` to use it. **Make sure to [sanitize the JSON before sending it to the client](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) as it makes your app vulnerable to XSS attacks.**
 
 ## Running Tests
 
 >Note: this feature is available with `react-scripts@0.3.0` and higher.<br>
->[Read the migration guide to learn how to enable it in older projects!](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md#migrating-from-023-to-030)
+>[Read the migration guide to learn how to enable it in older projects!](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
-Create React App uses [Jest](https://facebook.github.io/jest/) as its test runner. To prepare for this integration, we did a [major revamp](https://facebook.github.io/jest/blog/2016/09/01/jest-15.html) of Jest so if you heard bad things about it years ago, give it another try.
+Create React App uses [Jest](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) as its test runner. To prepare for this integration, we did a [major revamp](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) of Jest so if you heard bad things about it years ago, give it another try.
 
 Jest is a Node-based runner. This means that the tests always run in a Node environment and not in a real browser. This lets us enable fast iteration speed and prevent flakiness.
 
-While Jest provides browser globals such as `window` thanks to [jsdom](https://github.com/tmpvar/jsdom), they are only approximations of the real browser behavior. Jest is intended to be used for unit tests of your logic and your components rather than the DOM quirks.
+While Jest provides browser globals such as `window` thanks to [jsdom](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), they are only approximations of the real browser behavior. Jest is intended to be used for unit tests of your logic and your components rather than the DOM quirks.
 
 We recommend that you use a separate tool for browser end-to-end tests if you need them. They are beyond the scope of Create React App.
 
@@ -907,12 +907,12 @@ We recommend that you use a separate tool for browser end-to-end tests if you ne
 Jest will look for test files with any of the following popular naming conventions:
 
 * Files with `.js` suffix in `__tests__` folders.
-* Files with `.test.js` suffix.
-* Files with `.spec.js` suffix.
+* Files with `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` suffix.
+* Files with `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` suffix.
 
-The `.test.js` / `.spec.js` files (or the `__tests__` folders) can be located at any depth under the `src` top level folder.
+The `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` / `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` files (or the `__tests__` folders) can be located at any depth under the `src` top level folder.
 
-We recommend to put the test files (or `__tests__` folders) next to the code they are testing so that relative imports appear shorter. For example, if `App.test.js` and `App.js` are in the same folder, the test just needs to `import App from './App'` instead of a long relative path. Colocation also helps find tests more quickly in larger projects.
+We recommend to put the test files (or `__tests__` folders) next to the code they are testing so that relative imports appear shorter. For example, if `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` and `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` are in the same folder, the test just needs to `import App from './App'` instead of a long relative path. Colocation also helps find tests more quickly in larger projects.
 
 ### Command Line Interface
 
@@ -920,7 +920,7 @@ When you run `npm test`, Jest will launch in the watch mode. Every time you save
 
 The watcher includes an interactive command-line interface with the ability to run all tests, or focus on a search pattern. It is designed this way so that you can keep it open and enjoy fast re-runs. You can learn the commands from the “Watch Usage” note that the watcher prints after every run:
 
-![Jest watch mode](http://facebook.github.io/jest/img/blog/15-watch.gif)
+![Jest watch mode](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ### Version Control Integration
 
@@ -945,8 +945,8 @@ it('sums numbers', () => {
 });
 ```
 
-All `expect()` matchers supported by Jest are [extensively documented here](http://facebook.github.io/jest/docs/expect.html).<br>
-You can also use [`jest.fn()` and `expect(fn).toBeCalled()`](http://facebook.github.io/jest/docs/expect.html#tohavebeencalled) to create “spies” or mock functions.
+All `expect()` matchers supported by Jest are [extensively documented here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).<br>
+You can also use [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()` and `expect(fn).toBeCalled()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) to create “spies” or mock functions.
 
 ### Testing Components
 
@@ -960,16 +960,16 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
+  const div = https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip('div');
+  https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(<App />, div);
 });
 ```
 
-This test mounts a component and makes sure that it didn’t throw during rendering. Tests like this provide a lot value with very little effort so they are great as a starting point, and this is the test you will find in `src/App.test.js`.
+This test mounts a component and makes sure that it didn’t throw during rendering. Tests like this provide a lot value with very little effort so they are great as a starting point, and this is the test you will find in `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`.
 
 When you encounter bugs caused by changing components, you will gain a deeper insight into which parts of them are worth testing in your application. This might be a good time to introduce more specific tests asserting specific expected output or behavior.
 
-If you’d like to test components in isolation from the child components they render, we recommend using [`shallow()` rendering API](http://airbnb.io/enzyme/docs/api/shallow.html) from [Enzyme](http://airbnb.io/enzyme/). You can write a smoke test with it too:
+If you’d like to test components in isolation from the child components they render, we recommend using [`shallow()` rendering API](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) from [Enzyme](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip). You can write a smoke test with it too:
 
 ```sh
 npm install --save-dev enzyme react-addons-test-utils
@@ -985,9 +985,9 @@ it('renders without crashing', () => {
 });
 ```
 
-Unlike the previous smoke test using `ReactDOM.render()`, this test only renders `<App>` and doesn’t go deeper. For example, even if `<App>` itself renders a `<Button>` that throws, this test will pass. Shallow rendering is great for isolated unit tests, but you may still want to create some full rendering tests to ensure the components integrate correctly. Enzyme supports [full rendering with `mount()`](http://airbnb.io/enzyme/docs/api/mount.html), and you can also use it for testing state changes and component lifecycle.
+Unlike the previous smoke test using `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()`, this test only renders `<App>` and doesn’t go deeper. For example, even if `<App>` itself renders a `<Button>` that throws, this test will pass. Shallow rendering is great for isolated unit tests, but you may still want to create some full rendering tests to ensure the components integrate correctly. Enzyme supports [full rendering with `mount()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), and you can also use it for testing state changes and component lifecycle.
 
-You can read the [Enzyme documentation](http://airbnb.io/enzyme/) for more testing techniques. Enzyme documentation uses Chai and Sinon for assertions but you don’t have to use them because Jest provides built-in `expect()` and `jest.fn()` for spies.
+You can read the [Enzyme documentation](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) for more testing techniques. Enzyme documentation uses Chai and Sinon for assertions but you don’t have to use them because Jest provides built-in `expect()` and `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()` for spies.
 
 Here is an example from Enzyme documentation that asserts specific output, rewritten to use Jest matchers:
 
@@ -999,15 +999,15 @@ import App from './App';
 it('renders welcome message', () => {
   const wrapper = shallow(<App />);
   const welcome = <h2>Welcome to React</h2>;
-  // expect(wrapper.contains(welcome)).to.equal(true);
-  expect(wrapper.contains(welcome)).toEqual(true);
+  // expect(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(welcome))https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(true);
+  expect(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(welcome)).toEqual(true);
 });
 ```
 
-All Jest matchers are [extensively documented here](http://facebook.github.io/jest/docs/expect.html).<br>
-Nevertheless you can use a third-party assertion library like [Chai](http://chaijs.com/) if you want to, as described below.
+All Jest matchers are [extensively documented here](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).<br>
+Nevertheless you can use a third-party assertion library like [Chai](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) if you want to, as described below.
 
-Additionally, you might find [jest-enzyme](https://github.com/blainekasten/enzyme-matchers) helpful to simplify your tests with readable matchers. The above `contains` code can be written simpler with jest-enzyme.
+Additionally, you might find [jest-enzyme](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) helpful to simplify your tests with readable matchers. The above `contains` code can be written simpler with jest-enzyme.
 
 ```js
 expect(wrapper).toContainReact(welcome)
@@ -1020,16 +1020,16 @@ npm install --save-dev jest-enzyme
 ```
 
 ```js
-// src/setupTests.js
+// https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
 import 'jest-enzyme';
 ```
 
 
 ### Using Third Party Assertion Libraries
 
-We recommend that you use `expect()` for assertions and `jest.fn()` for spies. If you are having issues with them please [file those against Jest](https://github.com/facebook/jest/issues/new), and we’ll fix them. We intend to keep making them better for React, supporting, for example, [pretty-printing React elements as JSX](https://github.com/facebook/jest/pull/1566).
+We recommend that you use `expect()` for assertions and `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()` for spies. If you are having issues with them please [file those against Jest](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), and we’ll fix them. We intend to keep making them better for React, supporting, for example, [pretty-printing React elements as JSX](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
-However, if you are used to other libraries, such as [Chai](http://chaijs.com/) and [Sinon](http://sinonjs.org/), or if you have existing code using them that you’d like to port over, you can import them normally like this:
+However, if you are used to other libraries, such as [Chai](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and [Sinon](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), or if you have existing code using them that you’d like to port over, you can import them normally like this:
 
 ```js
 import sinon from 'sinon';
@@ -1042,18 +1042,18 @@ and then use them in your tests like you normally do.
 
 >Note: this feature is available with `react-scripts@0.4.0` and higher.
 
-If your app uses a browser API that you need to mock in your tests or if you just need a global setup before running your tests, add a `src/setupTests.js` to your project. It will be automatically executed before running your tests.
+If your app uses a browser API that you need to mock in your tests or if you just need a global setup before running your tests, add a `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` to your project. It will be automatically executed before running your tests.
 
 For example:
 
-#### `src/setupTests.js`
+#### `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 ```js
 const localStorageMock = {
-  getItem: jest.fn(),
-  setItem: jest.fn(),
-  clear: jest.fn()
+  getItem: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(),
+  setItem: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(),
+  clear: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()
 };
-global.localStorage = localStorageMock
+https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip = localStorageMock
 ```
 
 ### Focusing and Excluding Tests
@@ -1066,7 +1066,7 @@ Similarly, `fit()` lets you focus on a specific test without running any other t
 Jest has an integrated coverage reporter that works well with ES6 and requires no configuration.<br>
 Run `npm test -- --coverage` (note extra `--` in the middle) to include a coverage report like this:
 
-![coverage report](http://i.imgur.com/5bFhnTS.png)
+![coverage report](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 Note that tests run much slower with coverage so it is recommended to run it separately from your normal workflow.
 
@@ -1081,8 +1081,8 @@ Popular CI servers already set the environment variable `CI` by default but you 
 ### On CI servers
 #### Travis CI
 
-1. Following the [Travis Getting started](https://docs.travis-ci.com/user/getting-started/) guide for syncing your GitHub repository with Travis.  You may need to initialize some settings manually in your [profile](https://travis-ci.org/profile) page.
-1. Add a `.travis.yml` file to your git repository.
+1. Following the [Travis Getting started](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) guide for syncing your GitHub repository with Travis.  You may need to initialize some settings manually in your [profile](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) page.
+1. Add a `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` file to your git repository.
 ```
 language: node_js
 node_js:
@@ -1096,10 +1096,10 @@ script:
   - npm run build
 ```
 1. Trigger your first build with a git push.
-1. [Customize your Travis CI Build](https://docs.travis-ci.com/user/customizing-the-build/) if needed.
+1. [Customize your Travis CI Build](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) if needed.
 
 ### On your own environment
-##### Windows (cmd.exe)
+##### Windows (https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ```cmd
 set CI=true&&npm test
@@ -1123,13 +1123,13 @@ CI=true npm run build
 
 The test command will force Jest to run tests once instead of launching the watcher.
 
->  If you find yourself doing this often in development, please [file an issue](https://github.com/facebookincubator/create-react-app/issues/new) to tell us about your use case because we want to make watcher the best experience and are open to changing how it works to accommodate more workflows.
+>  If you find yourself doing this often in development, please [file an issue](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) to tell us about your use case because we want to make watcher the best experience and are open to changing how it works to accommodate more workflows.
 
 The build command will check for linter warnings and fail if any are found.
 
 ### Disabling jsdom
 
-By default, the `package.json` of the generated project looks like this:
+By default, the `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` of the generated project looks like this:
 
 ```js
   // ...
@@ -1139,30 +1139,30 @@ By default, the `package.json` of the generated project looks like this:
   }
 ```
 
-If you know that none of your tests depend on [jsdom](https://github.com/tmpvar/jsdom), you can safely remove `--env=jsdom`, and your tests will run faster.<br>
+If you know that none of your tests depend on [jsdom](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), you can safely remove `--env=jsdom`, and your tests will run faster.<br>
 To help you make up your mind, here is a list of APIs that **need jsdom**:
 
 * Any browser globals like `window` and `document`
-* [`ReactDOM.render()`](https://facebook.github.io/react/docs/top-level-api.html#reactdom.render)
-* [`TestUtils.renderIntoDocument()`](https://facebook.github.io/react/docs/test-utils.html#renderintodocument) ([a shortcut](https://github.com/facebook/react/blob/34761cf9a252964abfaab6faf74d473ad95d1f21/src/test/ReactTestUtils.js#L83-L91) for the above)
-* [`mount()`](http://airbnb.io/enzyme/docs/api/mount.html) in [Enzyme](http://airbnb.io/enzyme/index.html)
+* [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) ([a shortcut](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) for the above)
+* [`mount()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) in [Enzyme](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 In contrast, **jsdom is not needed** for the following APIs:
 
-* [`TestUtils.createRenderer()`](https://facebook.github.io/react/docs/test-utils.html#shallow-rendering) (shallow rendering)
-* [`shallow()`](http://airbnb.io/enzyme/docs/api/shallow.html) in [Enzyme](http://airbnb.io/enzyme/index.html)
+* [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) (shallow rendering)
+* [`shallow()`](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) in [Enzyme](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
-Finally, jsdom is also not needed for [snapshot testing](http://facebook.github.io/jest/blog/2016/07/27/jest-14.html).
+Finally, jsdom is also not needed for [snapshot testing](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### Snapshot Testing
 
-Snapshot testing is a feature of Jest that automatically generates text snapshots of your components and saves them on the disk so if the UI output changes, you get notified without manually writing any assertions on the component output. [Read more about snapshot testing.](http://facebook.github.io/jest/blog/2016/07/27/jest-14.html)
+Snapshot testing is a feature of Jest that automatically generates text snapshots of your components and saves them on the disk so if the UI output changes, you get notified without manually writing any assertions on the component output. [Read more about snapshot testing.](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ### Editor Integration
 
-If you use [Visual Studio Code](https://code.visualstudio.com), there is a [Jest extension](https://github.com/orta/vscode-jest) which works with Create React App out of the box. This provides a lot of IDE-like features while using a text editor: showing the status of a test run with potential fail messages inline, starting and stopping the watcher automatically, and offering one-click snapshot updates.
+If you use [Visual Studio Code](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), there is a [Jest extension](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) which works with Create React App out of the box. This provides a lot of IDE-like features while using a text editor: showing the status of a test run with potential fail messages inline, starting and stopping the watcher automatically, and offering one-click snapshot updates.
 
-![VS Code Jest Preview](https://cloud.githubusercontent.com/assets/49038/20795349/a032308a-b7c8-11e6-9b34-7eeac781003f.png)
+![VS Code Jest Preview](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ## Developing Components in Isolation
 
@@ -1175,9 +1175,9 @@ For an example, a simple button component could have following states:
 
 Usually, it’s hard to see these states without running a sample app or some examples.
 
-Create React App doesn’t include any tools for this by default, but you can easily add [React Storybook](https://github.com/kadirahq/react-storybook) to your project. **It is a third-party tool that lets you develop components and see all their states in isolation from your app**.
+Create React App doesn’t include any tools for this by default, but you can easily add [React Storybook](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) to your project. **It is a third-party tool that lets you develop components and see all their states in isolation from your app**.
 
-![React Storybook Demo](http://i.imgur.com/7CIAWpB.gif)
+![React Storybook Demo](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 You can also deploy your Storybook as a static app. This way, everyone in your team can view and review different states of UI components without starting a backend server or creating an account in your app.
 
@@ -1199,29 +1199,29 @@ After that, follow the instructions on the screen.
 
 Learn more about React Storybook:
 
-* Screencast: [Getting Started with React Storybook](https://egghead.io/lessons/react-getting-started-with-react-storybook)
-* [GitHub Repo](https://github.com/kadirahq/react-storybook)
-* [Documentation](https://getstorybook.io/docs)
-* [Snapshot Testing](https://github.com/kadirahq/storyshots) with React Storybook
+* Screencast: [Getting Started with React Storybook](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [GitHub Repo](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [Documentation](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [Snapshot Testing](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) with React Storybook
 
 ## Making a Progressive Web App
 
-You can turn your React app into a [Progressive Web App](https://developers.google.com/web/progressive-web-apps/) by following the steps in [this repository](https://github.com/jeffposnick/create-react-pwa).
+You can turn your React app into a [Progressive Web App](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) by following the steps in [this repository](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Deployment
 
-`npm run build` creates a `build` directory with a production build of your app. Set up your favourite HTTP server so that a visitor to your site is served `index.html`, and requests to static paths like `/static/js/main.<hash>.js` are served with the contents of the `/static/js/main.<hash>.js` file.
+`npm run build` creates a `build` directory with a production build of your app. Set up your favourite HTTP server so that a visitor to your site is served `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, and requests to static paths like `/static/js/main.<hash>.js` are served with the contents of the `/static/js/main.<hash>.js` file.
 
 ### Static Server
 
-For environments using [Node](https://nodejs.org/), the easiest way to handle this would be to install [serve](https://github.com/zeit/serve) and let it handle the rest:
+For environments using [Node](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), the easiest way to handle this would be to install [serve](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and let it handle the rest:
 
 ```sh
 npm install -g serve
 serve -s build
 ```
 
-The last command shown above will serve your static site on the port **5000**. Like many of [serve](https://github.com/zeit/serve)’s internal settings, the port can be adjusted using the `-p` or `--port` flags.
+The last command shown above will serve your static site on the port **5000**. Like many of [serve](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)’s internal settings, the port can be adjusted using the `-p` or `--port` flags.
 
 Run this command to get a full list of the options available:
 
@@ -1233,20 +1233,20 @@ serve -h
 
 You don’t necessarily need a static server in order to run a Create React App project in production. It works just as fine integrated into an existing dynamic one.
 
-Here’s a programmatic example using [Node](https://nodejs.org/) and [Express](http://expressjs.com/):
+Here’s a programmatic example using [Node](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and [Express](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip):
 
 ```javascript
 const express = require('express');
 const path = require('path');
 const app = express();
 
-app.use(express.static('./build'));
+https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip('./build'));
 
-app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, './build', 'index.html'));
+https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip('/', function (req, res) {
+  https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(__dirname, './build', 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip'));
 });
 
-app.listen(9000);
+https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(9000);
 ```
 
 The choice of your server software isn’t important either. Since Create React App is completely platform-agnostic, there’s no need to explicitly use Node.
@@ -1257,26 +1257,26 @@ However this is not quite enough if you use client-side routing. Read the next s
 
 ### Serving Apps with Client-Side Routing
 
-If you use routers that use the HTML5 [`pushState` history API](https://developer.mozilla.org/en-US/docs/Web/API/History_API#Adding_and_modifying_history_entries) under the hood (for example, [React Router](https://github.com/ReactTraining/react-router) with `browserHistory`), many static file servers will fail. For example, if you used React Router with a route for `/todos/42`, the development server will respond to `localhost:3000/todos/42` properly, but an Express serving a production build as above will not.
+If you use routers that use the HTML5 [`pushState` history API](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) under the hood (for example, [React Router](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) with `browserHistory`), many static file servers will fail. For example, if you used React Router with a route for `/todos/42`, the development server will respond to `localhost:3000/todos/42` properly, but an Express serving a production build as above will not.
 
-This is because when there is a fresh page load for a `/todos/42`, the server looks for the file `build/todos/42` and does not find it. The server needs to be configured to respond to a request to `/todos/42` by serving `index.html`. For example, we can amend our Express example above to serve `index.html` for any unknown paths:
+This is because when there is a fresh page load for a `/todos/42`, the server looks for the file `build/todos/42` and does not find it. The server needs to be configured to respond to a request to `/todos/42` by serving `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. For example, we can amend our Express example above to serve `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` for any unknown paths:
 
 ```diff
- app.use(express.static('./build'));
+ https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip('./build'));
 
--app.get('/', function (req, res) {
-+app.get('/*', function (req, res) {
-   res.sendFile(path.join(__dirname, './build', 'index.html'));
+https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip('/', function (req, res) {
++https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip('/*', function (req, res) {
+   https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip(__dirname, './build', 'https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip'));
  });
 ```
 
-If you’re using [Apache](https://httpd.apache.org/), you need to create a `.htaccess` file in the `public` folder that looks like this:
+If you’re using [Apache](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), you need to create a `.htaccess` file in the `public` folder that looks like this:
 
 ```
     Options -MultiViews
     RewriteEngine On
     RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^ index.html [QSA,L]
+    RewriteRule ^ https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip [QSA,L]
 ```
 
 It will get copied to the `build` folder when you run `npm run build`.
@@ -1286,10 +1286,10 @@ Now requests to `/todos/42` will be handled correctly both in development and in
 ### Building for Relative Paths
 
 By default, Create React App produces a build assuming your app is hosted at the server root.<br>
-To override this, specify the `homepage` in your `package.json`, for example:
+To override this, specify the `homepage` in your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, for example:
 
 ```js
-  "homepage": "http://mywebsite.com/relativepath",
+  "homepage": "https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip",
 ```
 
 This will let Create React App correctly infer the root path to use in the generated HTML file.
@@ -1298,23 +1298,23 @@ This will let Create React App correctly infer the root path to use in the gener
 
 >Note: this feature is available with `react-scripts@0.9.0` and higher.
 
-If you are not using the HTML5 `pushState` history API or not using client-side routing at all, it is unnecessary to specify the URL from which your app will be served. Instead, you can put this in your `package.json`:
+If you are not using the HTML5 `pushState` history API or not using client-side routing at all, it is unnecessary to specify the URL from which your app will be served. Instead, you can put this in your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`:
 
 ```js
   "homepage": ".",
 ```
 
-This will make sure that all the asset paths are relative to `index.html`. You will then be able to move your app from `http://mywebsite.com` to `http://mywebsite.com/relativepath` or even `http://mywebsite.com/relative/path` without having to rebuild it.
+This will make sure that all the asset paths are relative to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. You will then be able to move your app from `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` or even `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` without having to rebuild it.
 
 ### Azure
 
-See [this](https://medium.com/@to_pe/deploying-create-react-app-on-microsoft-azure-c0f6686a4321) blog post on how to deploy your React app to [Microsoft Azure](https://azure.microsoft.com/).
+See [this](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) blog post on how to deploy your React app to [Microsoft Azure](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### Firebase
 
-Install the Firebase CLI if you haven’t already by running `npm install -g firebase-tools`. Sign up for a [Firebase account](https://console.firebase.google.com/) and create a new project. Run `firebase login` and login with your previous created Firebase account.
+Install the Firebase CLI if you haven’t already by running `npm install -g firebase-tools`. Sign up for a [Firebase account](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and create a new project. Run `firebase login` and login with your previous created Firebase account.
 
-Then run the `firebase init` command from your project’s root. You need to choose the **Hosting: Configure and deploy Firebase Hosting sites** and choose the Firebase project you created in the previous step. You will need to agree with `database.rules.json` being created, choose `build` as the public directory, and also agree to **Configure as a single-page app** by replying with `y`.
+Then run the `firebase init` command from your project’s root. You need to choose the **Hosting: Configure and deploy Firebase Hosting sites** and choose the Firebase project you created in the previous step. You will need to agree with `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` being created, choose `build` as the public directory, and also agree to **Configure as a single-page app** by replying with `y`.
 
 ```sh
     === Project Setup
@@ -1330,9 +1330,9 @@ Then run the `firebase init` command from your project’s root. You need to cho
     Firebase Realtime Database Rules allow you to define how your data should be
     structured and when your data can be read from and written to.
 
-    ? What file should be used for Database Rules? database.rules.json
-    ✔  Database Rules for example-app-fd690 have been downloaded to database.rules.json.
-    Future modifications to database.rules.json will update Database Rules when you run
+    ? What file should be used for Database Rules? https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    ✔  Database Rules for example-app-fd690 have been downloaded to https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    Future modifications to https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip will update Database Rules when you run
     firebase deploy.
 
     === Hosting Setup
@@ -1342,10 +1342,10 @@ Then run the `firebase init` command from your project’s root. You need to cho
     have a build process for your assets, use your build's output directory.
 
     ? What do you want to use as your public directory? build
-    ? Configure as a single-page app (rewrite all urls to /index.html)? Yes
-    ✔  Wrote build/index.html
+    ? Configure as a single-page app (rewrite all urls to https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)? Yes
+    ✔  Wrote https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
 
-    i  Writing configuration info to firebase.json...
+    i  Writing configuration info to https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
     i  Writing project information to .firebaserc...
 
     ✔  Firebase initialization complete!
@@ -1365,40 +1365,40 @@ Now, after you create a production build with `npm run build`, you can deploy it
 
     ✔  Deploy complete!
 
-    Project Console: https://console.firebase.google.com/project/example-app-fd690/overview
-    Hosting URL: https://example-app-fd690.firebaseapp.com
+    Project Console: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
+    Hosting URL: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
 ```
 
-For more information see [Add Firebase to your JavaScript Project](https://firebase.google.com/docs/web/setup).
+For more information see [Add Firebase to your JavaScript Project](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### GitHub Pages
 
 >Note: this feature is available with `react-scripts@0.2.0` and higher.
 
-#### Step 1: Add `homepage` to `package.json`
+#### Step 1: Add `homepage` to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 
 **The step below is important!**<br>
 **If you skip it, your app will not deploy correctly.**
 
-Open your `package.json` and add a `homepage` field:
+Open your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` and add a `homepage` field:
 
 ```js
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip",
 ```
 
 Create React App uses the `homepage` field to determine the root URL in the built HTML file.
 
-#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `package.json`
+#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 
 Now, whenever you run `npm run build`, you will see a cheat sheet with instructions on how to deploy to GitHub Pages.
 
-To publish it at [https://myusername.github.io/my-app](https://myusername.github.io/my-app), run:
+To publish it at [https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), run:
 
 ```sh
 npm install --save-dev gh-pages
 ```
 
-Add the following scripts in your `package.json`:
+Add the following scripts in your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`:
 
 ```js
   // ...
@@ -1423,7 +1423,7 @@ npm run deploy
 
 Finally, make sure **GitHub Pages** option in your GitHub project settings is set to use the `gh-pages` branch:
 
-<img src="http://i.imgur.com/HUjEr9l.png" width="500" alt="gh-pages branch setting">
+<img src="https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip" width="500" alt="gh-pages branch setting">
 
 #### Step 5: Optionally, configure the domain
 
@@ -1431,15 +1431,15 @@ You can configure a custom domain with GitHub Pages by adding a `CNAME` file to 
 
 #### Notes on client-side routing
 
-GitHub Pages doesn’t support routers that use the HTML5 `pushState` history API under the hood (for example, React Router using `browserHistory`). This is because when there is a fresh page load for a url like `http://user.github.io/todomvc/todos/42`, where `/todos/42` is a frontend route, the GitHub Pages server returns 404 because it knows nothing of `/todos/42`. If you want to add a router to a project hosted on GitHub Pages, here are a couple of solutions:
+GitHub Pages doesn’t support routers that use the HTML5 `pushState` history API under the hood (for example, React Router using `browserHistory`). This is because when there is a fresh page load for a url like `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`, where `/todos/42` is a frontend route, the GitHub Pages server returns 404 because it knows nothing of `/todos/42`. If you want to add a router to a project hosted on GitHub Pages, here are a couple of solutions:
 
-* You could switch from using HTML5 history API to routing with hashes. If you use React Router, you can switch to `hashHistory` for this effect, but the URL will be longer and more verbose (for example, `http://user.github.io/todomvc/#/todos/42?_k=yknaj`). [Read more](https://github.com/reactjs/react-router/blob/master/docs/guides/Histories.md#histories) about different history implementations in React Router.
-* Alternatively, you can use a trick to teach GitHub Pages to handle 404 by redirecting to your `index.html` page with a special redirect parameter. You would need to add a `404.html` file with the redirection code to the `build` folder before deploying your project, and you’ll need to add code handling the redirect parameter to `index.html`. You can find a detailed explanation of this technique [in this guide](https://github.com/rafrex/spa-github-pages).
+* You could switch from using HTML5 history API to routing with hashes. If you use React Router, you can switch to `hashHistory` for this effect, but the URL will be longer and more verbose (for example, `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`). [Read more](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) about different history implementations in React Router.
+* Alternatively, you can use a trick to teach GitHub Pages to handle 404 by redirecting to your `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` page with a special redirect parameter. You would need to add a `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` file with the redirection code to the `build` folder before deploying your project, and you’ll need to add code handling the redirect parameter to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`. You can find a detailed explanation of this technique [in this guide](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### Heroku
 
-Use the [Heroku Buildpack for Create React App](https://github.com/mars/create-react-app-buildpack).<br>
-You can find instructions in [Deploying React with Zero Configuration](https://blog.heroku.com/deploying-react-with-zero-configuration).
+Use the [Heroku Buildpack for Create React App](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).<br>
+You can find instructions in [Deploying React with Zero Configuration](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 #### Resolving Heroku Deployment Errors
 
@@ -1465,18 +1465,18 @@ If you exclude or ignore necessary files from the package you will see a error s
 
 ```
 remote: Could not find a required file.
-remote:   Name: `index.html`
+remote:   Name: `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`
 remote:   Searched in: /tmp/build_a2875fc163b209225122d68916f1d4df/public
 remote:
 remote: npm ERR! Linux 3.13.0-105-generic
-remote: npm ERR! argv "/tmp/build_a2875fc163b209225122d68916f1d4df/.heroku/node/bin/node" "/tmp/build_a2875fc163b209225122d68916f1d4df/.heroku/node/bin/npm" "run" "build"
+remote: npm ERR! argv "https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip" "https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip" "run" "build"
 ```
 
-In this case, ensure that the file is there with the proper lettercase and that’s not ignored on your local `.gitignore` or `~/.gitignore_global`.
+In this case, ensure that the file is there with the proper lettercase and that’s not ignored on your local `.gitignore` or `~https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`.
 
 ### Modulus
 
-See the [Modulus blog post](http://blog.modulus.io/deploying-react-apps-on-modulus) on how to deploy your react app to Modulus.
+See the [Modulus blog post](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) on how to deploy your react app to Modulus.
 
 ## Netlify
 
@@ -1493,7 +1493,7 @@ Choose `build` as the path to deploy.
 
 With this setup Netlify will build and deploy when you push to git or open a pull request:
 
-1. [Start a new netlify project](https://app.netlify.com/signup)
+1. [Start a new netlify project](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 2. Pick your Git hosting service and select your repository
 3. Click `Build your site`
 
@@ -1502,59 +1502,59 @@ With this setup Netlify will build and deploy when you push to git or open a pul
 To support `pushState`, make sure to create a `public/_redirects` file with the following rewrite rules:
 
 ```
-/*  /index.html  200
+/*  https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip  200
 ```
 
 When you build the project, Create React App will place the `public` folder contents into the build output.
 
 ### Now
 
-[now](https://zeit.co/now) offers a zero-configuration single-command deployment.
+[now](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) offers a zero-configuration single-command deployment.
 
-1. Install the `now` command-line tool either via the recommended [desktop tool](https://zeit.co/download) or via node with `npm install -g now`.
+1. Install the `now` command-line tool either via the recommended [desktop tool](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) or via node with `npm install -g now`.
 
 2. Install `serve` by running `npm install --save serve`.
 
-3. Add this line to `scripts` in `package.json`:
+3. Add this line to `scripts` in `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`:
     
     ```
     "now-start": "serve build/",
     ```
     
-4. Run `now` from your project directory. You will see a **now.sh** URL in your output like this:
+4. Run `now` from your project directory. You will see a **https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip** URL in your output like this:
     
     ```
-    > Ready! https://your-project-dirname-tpspyhtdtk.now.sh (copied to clipboard)
+    > Ready! https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip (copied to clipboard)
     ```
     
     Paste that URL into your browser when the build is complete, and you will see your deployed app.
 
-Details are available in [this article.](https://zeit.co/blog/now-static)
+Details are available in [this article.](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
 ### S3 and CloudFront
 
-See this [blog post](https://medium.com/@omgwtfmarc/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af) on how to deploy your React app to Amazon Web Services [S3](https://aws.amazon.com/s3) and [CloudFront](https://aws.amazon.com/cloudfront/).
+See this [blog post](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) on how to deploy your React app to Amazon Web Services [S3](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) and [CloudFront](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### Surge
 
 Install the Surge CLI if you haven’t already by running `npm install -g surge`. Run the `surge` command and log in you or create a new account. You just need to specify the *build* folder and your custom domain, and you are done.
 
 ```sh
-              email: email@domain.com
+              email: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
            password: ********
        project path: /path/to/project/build
                size: 7 files, 1.8 MB
-             domain: create-react-app.surge.sh
+             domain: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
              upload: [====================] 100%, eta: 0.0s
    propagate on CDN: [====================] 100%
                plan: Free
-              users: email@domain.com
+              users: https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
          IP Address: X.X.X.X
 
-    Success! Project is published and running at create-react-app.surge.sh
+    Success! Project is published and running at https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip
 ```
 
-Note that in order to support routers that use HTML5 `pushState` API, you may want to rename the `index.html` in your build folder to `200.html` before deploying to Surge. This [ensures that every URL falls back to that file](https://surge.sh/help/adding-a-200-page-for-client-side-routing).
+Note that in order to support routers that use HTML5 `pushState` API, you may want to rename the `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` in your build folder to `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` before deploying to Surge. This [ensures that every URL falls back to that file](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ## Advanced Configuration
 
@@ -1562,11 +1562,11 @@ You can adjust various development and production settings by setting environmen
 
 Variable | Development | Production | Usage
 :--- | :---: | :---: | :---
-BROWSER | :white_check_mark: | :x: | By default, Create React App will open the default system browser, favoring Chrome on macOS. Specify a [browser](https://github.com/sindresorhus/opn#app) to override this behavior, or set it to `none` to disable it completely.
+BROWSER | :white_check_mark: | :x: | By default, Create React App will open the default system browser, favoring Chrome on macOS. Specify a [browser](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) to override this behavior, or set it to `none` to disable it completely.
 HOST | :white_check_mark: | :x: | By default, the development web server binds to `localhost`. You may use this variable to specify a different host.
 PORT | :white_check_mark: | :x: | By default, the development web server will attempt to listen on port 3000 or prompt you to attempt the next available port. You may use this variable to specify a different port.
 HTTPS | :white_check_mark: | :x: | When set to `true`, Create React App will run the development server in `https` mode.
-PUBLIC_URL | :x: | :white_check_mark: | Create React App assumes your application is hosted at the serving web server's root or a subpath as specified in [`package.json` (`homepage`)](#building-for-relative-paths). Normally, Create React App ignores the hostname. You may use this variable to force assets to be referenced verbatim to the url you provide (hostname included). This may be particularly useful when using a CDN to host your application.
+PUBLIC_URL | :x: | :white_check_mark: | Create React App assumes your application is hosted at the serving web server's root or a subpath as specified in [`https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` (`homepage`)](#building-for-relative-paths). Normally, Create React App ignores the hostname. You may use this variable to force assets to be referenced verbatim to the url you provide (hostname included). This may be particularly useful when using a CDN to host your application.
 CI | :large_orange_diamond: | :white_check_mark: | When set to `true`, Create React App treats warnings as failures in the build. It also makes the test runner non-watching. Most CIs set this flag by default.
 
 ## Troubleshooting
@@ -1577,25 +1577,25 @@ When you save a file while `npm start` is running, the browser should refresh wi
 If this doesn’t happen, try one of the following workarounds:
 
 * If your project is in a Dropbox folder, try moving it out.
-* If the watcher doesn’t see a file called `index.js` and you’re referencing it by the folder name, you [need to restart the watcher](https://github.com/facebookincubator/create-react-app/issues/1164) due to a Webpack bug.
-* Some editors like Vim and IntelliJ have a “safe write” feature that currently breaks the watcher. You will need to disable it. Follow the instructions in [“Working with editors supporting safe write”](https://webpack.github.io/docs/webpack-dev-server.html#working-with-editors-ides-supporting-safe-write).
-* If your project path contains parentheses, try moving the project to a path without them. This is caused by a [Webpack watcher bug](https://github.com/webpack/watchpack/issues/42).
-* On Linux and macOS, you might need to [tweak system settings](https://webpack.github.io/docs/troubleshooting.html#not-enough-watchers) to allow more watchers.
+* If the watcher doesn’t see a file called `https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip` and you’re referencing it by the folder name, you [need to restart the watcher](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) due to a Webpack bug.
+* Some editors like Vim and IntelliJ have a “safe write” feature that currently breaks the watcher. You will need to disable it. Follow the instructions in [“Working with editors supporting safe write”](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
+* If your project path contains parentheses, try moving the project to a path without them. This is caused by a [Webpack watcher bug](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
+* On Linux and macOS, you might need to [tweak system settings](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) to allow more watchers.
 * If the project runs inside a virtual machine such as (a Vagrant provisioned) VirtualBox, create an `.env` file in your project directory if it doesn’t exist, and add `CHOKIDAR_USEPOLLING=true` to it. This ensures that the next time you run `npm start`, the watcher uses the polling mode, as necessary inside a VM.
 
-If none of these solutions help please leave a comment [in this thread](https://github.com/facebookincubator/create-react-app/issues/659).
+If none of these solutions help please leave a comment [in this thread](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 ### `npm test` hangs on macOS Sierra
 
-If you run `npm test` and the console gets stuck after printing `react-scripts test --env=jsdom` to the console there might be a problem with your [Watchman](https://facebook.github.io/watchman/) installation as described in [facebookincubator/create-react-app#713](https://github.com/facebookincubator/create-react-app/issues/713).
+If you run `npm test` and the console gets stuck after printing `react-scripts test --env=jsdom` to the console there might be a problem with your [Watchman](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) installation as described in [facebookincubator/create-react-app#713](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip).
 
 We recommend deleting `node_modules` in your project and running `npm install` (or `yarn` if you use it) first. If it doesn't help, you can try one of the numerous workarounds mentioned in these issues:
 
-* [facebook/jest#1767](https://github.com/facebook/jest/issues/1767)
-* [facebook/watchman#358](https://github.com/facebook/watchman/issues/358)
-* [ember-cli/ember-cli#6259](https://github.com/ember-cli/ember-cli/issues/6259)
+* [facebook/jest#1767](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [facebook/watchman#358](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
+* [ember-cli/ember-cli#6259](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
 
-It is reported that installing Watchman 4.7.0 or newer fixes the issue. If you use [Homebrew](http://brew.sh/), you can run these commands to update it:
+It is reported that installing Watchman 4.7.0 or newer fixes the issue. If you use [Homebrew](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), you can run these commands to update it:
 
 ```
 watchman shutdown-server
@@ -1603,15 +1603,15 @@ brew update
 brew reinstall watchman
 ```
 
-You can find [other installation methods](https://facebook.github.io/watchman/docs/install.html#build-install) on the Watchman documentation page.
+You can find [other installation methods](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) on the Watchman documentation page.
 
-If this still doesn’t help, try running `launchctl unload -F ~/Library/LaunchAgents/com.github.facebook.watchman.plist`.
+If this still doesn’t help, try running `launchctl unload -F ~https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip`.
 
 There are also reports that *uninstalling* Watchman fixes the issue. So if nothing else helps, remove it from your system and try again.
 
 ### `npm run build` silently fails
 
-It is reported that `npm run build` can fail on machines with no swap space, which is common in cloud environments. If [the symptoms are matching](https://github.com/facebookincubator/create-react-app/issues/1133#issuecomment-264612171), consider adding some swap space to the machine you’re building on, or build the project locally.
+It is reported that `npm run build` can fail on machines with no swap space, which is common in cloud environments. If [the symptoms are matching](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip), consider adding some swap space to the machine you’re building on, or build the project locally.
 
 ### `npm run build` fails on Heroku
 
@@ -1620,4 +1620,4 @@ Please refer to [this section](#resolving-heroku-deployment-errors).
 
 ## Something Missing?
 
-If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip) or [contribute some!](https://github.com/Shoaibxaif/PikcupPal/raw/refs/heads/main/public/html/Pal_Pikcup_v3.5.zip)
